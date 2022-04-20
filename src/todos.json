@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "Task One",
+      "responsible": "Carlos",
+      "description": "Learn french",
+      "priority": "low"
+    },
+    {
+      "title": "Task Two",
+      "responsible": "Carla",
+      "description": "learn German",
+      "priority": "medium"
+    },
+    {
+      "title": "Task Three",
+      "responsible": "Jose",
+      "description": "Learn Russian",
+      "priority": "hight"
+    },
+    {
+      "title": "Task Four",
+      "responsible": "Karl",
+      "description": "Learn Programming",
+      "priority": "medium"
+    }
+  ]
+}
